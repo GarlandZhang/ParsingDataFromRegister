@@ -1,0 +1,4 @@
+﻿  ParsingRegisterData2.cpp
+c:\users\gzhang\source\repos\parsingregisterdata2\parsingregisterdata2\parsingregisterdata2.cpp(58): warning C4551: function call missing argument list
+c:\users\gzhang\source\repos\parsingregisterdata2\parsingregisterdata2\parsingregisterdata2.cpp(59): warning C4715: 'getRegisterWithAddress': not all control paths return a value
+  ParsingRegisterData2.vcxproj -> C:\Users\GZhang\source\repos\ParsingRegisterData2\Debug\ParsingRegisterData2.exe
